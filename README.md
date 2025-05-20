@@ -3,7 +3,7 @@
 Agentic Web Search with Google API is an intelligent assistant that uses Agentic AI and the Google Custom Search API to perform live, deep web searches in response to user queries. It integrates multiple LLMs (GPT, Claude, DeepSeek, LLaMA(localhost)) with a deep search tool that extracts and summarizes content from the latest sources on the web.
 
 ## 📌 Features
-
+- 🧠 Uses OpenAI Agents SDK
 - 🔍 Uses Google Custom Search API for up-to-date web results
 - 🧠 Integrates LLMs including GPT, Claude, DeepSeek, and LLaMA(locally in your machine, at no cost and no need for APIs)
 - 🌐 Fetches and parses multiple URLs to extract relevant content
