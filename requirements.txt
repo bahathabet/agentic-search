@@ -1,4 +1,6 @@
 openai
+openai-agents
 requests
 beautifulsoup4
 python-dotenv
+ollama
